@@ -9,5 +9,5 @@ c= float (input("ingrese un capital inicial:"))
 t= float (input("ingrese una tasa de interes:"))
 n= int(input ("ingrese un número entero de años:"))
 
-print((c*(1+t/100)**n), "pesos")
-
+print("Capital final:", (c*(1+t/100)**n), "pesos")
+print("Cálculo finalizado")
