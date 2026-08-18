@@ -11,3 +11,5 @@ n= int(input ("ingrese un número entero de años:"))
 
 print("Capital final:", (c*(1+t/100)**n), "pesos")
 print("Proceso de cálculo finalizado correctamente")
+
+print("Gracias por utilizar nuestro programa")
